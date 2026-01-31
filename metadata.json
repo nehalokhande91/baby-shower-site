@@ -1,0 +1,5 @@
+{
+  "name": "Baby Shower Site",
+  "description": "An interactive baby shower game platform designed for remote family gatherings. Features Family Feud, Mom or Dad Trivia, and Baby Facts with a built-in scoreboard for the host to manage points during a video call.",
+  "requestFramePermissions": []
+}
